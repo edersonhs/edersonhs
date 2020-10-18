@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonhs" alt="edersonhs" /> </p>
 
 - 🔭 I’m currently studying Computer Science, in UNIFACVEST (Lages - SC, Brazil)!
-- 🌱 I’m currently learning Front-End development and Back-End development
+- 🌱 I’m currently learning Front-End and Back-End development 
 - 👯 I’m looking to develop more projects by myself and learn new things
 - 🥅 My goals: Become a good developer in my stack and work with programming
 - ⚡ Fun fact: I love to play games, watch TV-series, animes and movies
