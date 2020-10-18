@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Ederson Henrique Sá - aka Traxr</h1>
+<h3 align="center">I'm a student, dreamer and a future developer!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonhs" alt="edersonhs" /> </p>
 
-<!--
-**edersonhs/edersonhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying Computer Science, in UNIFACVEST (Lages - SC, Brazil)!
+- 🌱 I’m currently learning Front-End development and Back-End development
+- 👯 I’m looking to develop more projects by myself and learn new things
+- 🥅 My goals: Become a good developer in my stack and work with programming
+- ⚡ Fun fact: I love to play games, watch TV-series, animes and movies
 
-Here are some ideas to get you started:
+<h3>You can find me here</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="edersonhs | LinkedIn" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="edersonhs | Steam" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/steam.svg" />][steam]
+[<img align="left" alt="edersonhs | Instagram" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/instagram.svg" />][instagram]
+
+<br />
+
+<h3>Languages and tools</h3>
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/edersonhs/edersonhs/raw/main/images/VScode.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/edersonhs/edersonhs/main/images/CSS3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/edersonhs/edersonhs/raw/main/images/JavaScript.svg"
+/>
+<img align="left" alt="Git" width="26px" src="https://github.com/edersonhs/edersonhs/raw/main/images/GIT.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/edersonhs/
+[steam]: https://https://steamcommunity.com/id/traxr_/
+[instagram]: https://www.instagram.com/edersonhs/
