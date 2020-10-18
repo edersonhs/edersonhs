@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ederson Henrique Sá - aka Traxr</h1>
+<h1 align="center">Hi there 👋, I'm Ederson Henrique Sá</h1>
 <h3 align="center">I'm a student, dreamer and a future developer!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonhs" alt="edersonhs" /> </p>
 
