@@ -13,6 +13,7 @@
 [<img align="left" alt="edersonhs | LinkedIn" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/linkedin.svg" />][linkedin]
 [<img align="left" alt="edersonhs | Steam" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/steam.svg" />][steam]
 [<img align="left" alt="edersonhs | Instagram" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/instagram.svg" />][instagram]
+[<img align="left" alt="edersonhs | Facebook" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/Facebook.svg" />][Facebook]
 
 <br />
 
@@ -31,3 +32,4 @@
 [linkedin]: https://www.linkedin.com/in/edersonhs/
 [steam]: https://steamcommunity.com/id/traxr_/
 [instagram]: https://www.instagram.com/edersonhs/
+[Facebook]: https://www.facebook.com/edersonhs/
