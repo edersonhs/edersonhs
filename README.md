@@ -10,8 +10,8 @@
 
 <h3>You can find me here</h3>
 
-[<img align="left" alt="edersonhs | LinkedIn" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/linkedin.svg" />][linkedin]
-[<img align="left" alt="edersonhs | Steam" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/steam.svg" />][steam]
+[<img align="left" alt="edersonhs | LinkedIn" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="edersonhs | Steam" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/steam.svg" />][steam]
 [<img align="left" alt="edersonhs | Instagram" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/instagram.svg" />][instagram]
 [<img align="left" alt="edersonhs | Facebook" width="22px" src="https://github.com/edersonhs/edersonhs/raw/main/images/Facebook.svg" />][Facebook]
 
