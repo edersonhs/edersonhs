@@ -12,7 +12,7 @@
 
 [<img align="left" alt="edersonhs | LinkedIn" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/linkedin.svg" />][linkedin]
 [<img align="left" alt="edersonhs | Steam" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/steam.svg" />][steam]
-[<img align="left" alt="edersonhs | Instagram" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/instagram.png" />][instagram]
+[<img align="left" alt="edersonhs | Instagram" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/Instagram.svg" />][instagram]
 [<img align="left" alt="edersonhs | Facebook" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/Facebook.svg" />][Facebook]
 
 <br />
