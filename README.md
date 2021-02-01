@@ -25,7 +25,7 @@
 <img align="left" alt="CSS3" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/CSS3.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/JavaScript.svg" />
 <img align="left" alt="Git" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/GIT.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/Github.svg" />
 <br />
 <br />
 
