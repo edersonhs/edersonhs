@@ -2,8 +2,8 @@
 <h3 align="center">I'm a student, dreamer and a future developer!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonhs" alt="edersonhs" /> </p>
 
-- 🔭 I’m currently studying Computer Science, in UNIFACVEST (Lages - SC, Brazil)!
-- 🌱 I'm currently learning Python and some technologies
+- 🌱 I’m currently studying Computer Science, in UNIFACVEST (Lages - SC, Brazil)!
+- 🚀 I'm currently learning Python and some technologies
 - 👯 I’m looking to develop more projects by myself and learn new things
 - 🥅 My goals: Become a good developer in my stack and work with programming
 - ⚡ Fun fact: I love to play games, watch TV-series, animes and movies
