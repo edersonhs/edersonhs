@@ -30,6 +30,6 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/edersonhs/
-[steam]: https://steamcommunity.com/id/traxr_/
+[steam]: https://steamcommunity.com/id/traxr/
 [instagram]: https://www.instagram.com/edersonhs/
 [Facebook]: https://www.facebook.com/edersonhs/
