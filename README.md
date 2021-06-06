@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋🏻, I'm Ederson Henrique Sá</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ederson Henrique Sá</h1>
 <h3 align="center">I'm a student, dreamer and a future developer!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonhs" alt="edersonhs" /> </p>
 
-- 🔭 I’m currently studying Computer Science, in UNIFACVEST (Lages - SC, Brazil)!
-- 🌱 I’m currently learning Front-End and Back-End development 
+- 🌱 I’m currently studying Computer Science, in UNIFACVEST (Lages - SC, Brazil)!
+- 🚀 I'm currently learning Python and some technologies
 - 👯 I’m looking to develop more projects by myself and learn new things
 - 🥅 My goals: Become a good developer in my stack and work with programming
 - ⚡ Fun fact: I love to play games, watch TV-series, animes and movies
@@ -25,11 +25,11 @@
 <img align="left" alt="CSS3" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/CSS3.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/JavaScript.svg" />
 <img align="left" alt="Git" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/GIT.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/Github.svg" />
 <br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/edersonhs/
-[steam]: https://steamcommunity.com/id/traxr_/
+[steam]: https://steamcommunity.com/id/traxr/
 [instagram]: https://www.instagram.com/edersonhs/
 [Facebook]: https://www.facebook.com/edersonhs/
