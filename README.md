@@ -20,9 +20,10 @@
 <h3>Languages and tools</h3>
 
 <img align="left" alt="Python" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/Python.svg" />
+<img align="left" alt="Django" width="40px" src="https://raw.githubusercontent.com/edersonhs/edersonhs/main/images/Django.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/VScode.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/HTML5.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/CSS3.svg" />
+<img align="left" alt="HTML5" width="35px" src="https://github.com/edersonhs/edersonhs/raw/main/images/HTML5.svg" />
+<img align="left" alt="CSS3" width="36px" src="https://github.com/edersonhs/edersonhs/raw/main/images/CSS3.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/JavaScript.svg" />
 <img align="left" alt="Git" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/GIT.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/edersonhs/edersonhs/raw/main/images/Github.svg" />
