@@ -32,5 +32,5 @@
 
 [linkedin]: https://www.linkedin.com/in/edersonhs/
 [steam]: https://steamcommunity.com/id/traxr/
-[instagram]: https://www.instagram.com/edersonhs/
+[instagram]: https://www.instagram.com/edersonhs/?theme=dark
 [Facebook]: https://www.facebook.com/edersonhs/
