@@ -2,10 +2,11 @@
 <h3 align="center">I'm a student, dreamer and a future developer!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonhs" alt="edersonhs" /> </p>
 
-- 🌱 I’m currently studying Computer Science, in UNIFACVEST (Lages - SC, Brazil)!
-- 🚀 Currently learning Python and some technologies
-- 👯 I’m looking to develop more projects by myself and learn new things
-- 🥅 My goals: Become a good developer in my stack and work with programming
+- 💼 Currently working as an Implementation Analyst, handling customizations and deployments in an ERP system.
+- 🎓 Completed coursework in Computer Science at UNIFACVEST (Lages - SC, Brazil), pending final thesis.
+- 🚀 Experienced in Python, with multiple completed courses and strong knowledge of the language.
+- 👨‍💻 Passionate about technology, security, and automation.
+- 🥅 My goals: Expand my knowledge in security and development to work with cybersecurity or software engineering.
 - ⚡ Fun fact: I love to play games, watch TV-series, animes and movies
 
 <h3>You can find me here</h3>
